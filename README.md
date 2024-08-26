@@ -29,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

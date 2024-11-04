@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3451-string-compression-iii](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3451-string-compression-iii) |
 ## Depth-First Search
 |  |
 | ------- |

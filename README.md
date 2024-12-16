@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
 | ------- |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |

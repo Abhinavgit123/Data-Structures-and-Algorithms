@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2089-maximum-matrix-sum](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Graph
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [3451-string-compression-iii](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3451-string-compression-iii) |
 ## Depth-First Search
 |  |
@@ -80,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
 |  |
@@ -102,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2868-continuous-subarrays) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->

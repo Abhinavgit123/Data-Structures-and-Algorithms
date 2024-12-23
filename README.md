@@ -69,16 +69,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |

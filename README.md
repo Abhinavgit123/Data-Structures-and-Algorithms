@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1195-distribute-candies-to-people](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1195-distribute-candies-to-people) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1195-distribute-candies-to-people](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1195-distribute-candies-to-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue

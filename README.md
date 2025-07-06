@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -131,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Abhinavgit123/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
